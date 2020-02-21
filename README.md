@@ -5,6 +5,10 @@
 * Frontend: Reactjs with Xtermjs
 * Backend: Golang with beego framework
 
+## Screenshot
+
+![](img/demo.png)
+
 ## How to start
 
 **Frontend**
